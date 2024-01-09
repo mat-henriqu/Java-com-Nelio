@@ -43,6 +43,7 @@ public class Program {
             System.out.println(employee.getName()+" - $" + String.format("%.2f", employee.payment()));
         }
 
+
         scanner.close();
     }
 }
