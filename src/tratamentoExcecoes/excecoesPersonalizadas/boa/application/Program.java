@@ -40,6 +40,7 @@ public class Program {
             System.out.println(illegalArgumentException.getMessage());
         }
 
+
         scanner.close();
     }
 }
